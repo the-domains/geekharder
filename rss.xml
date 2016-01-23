@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[GeekHarder]]></title>
+        <description><![CDATA[GeekHarder]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 23 Jan 2016 18:11:13 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Practice Posting]]></title>
+            <description><![CDATA[<article><h1>Practice Posting</h1><p>Practicing posting on this website is so much fun. Maybe someday, we'll be able to add podcasts and things unrelated to text or images! One can only hope.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a99bb2965b20388ec48bba6fcdebb24ba9611259.png"></article>]]></description>
+            <link>undefinedpractice-posting/index.html</link>
+            <guid isPermaLink="false">41a8aa87-1cf4-4f60-87bf-7c011aac688b</guid>
+            <pubDate>Sat, 23 Jan 2016 18:10:17 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
