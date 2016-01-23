@@ -1,28 +1,40 @@
-name: GeekHarder
-favicon: null
-layout_spectrum: 0.7108681260142475
-typography_spectrum: 0.8047673173714429
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+layout_spectrum: 1
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.647015594644472
-  lightness: 0.9133802622091025
-  saturation: 0.29738582484424114
-  rhythmicContrast: 0.25274340412579477
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.2973858248442411
+  brandStrength: 0.647015594644472
+  rhythmicContrast: 0.2527434041257948
+  brandColors:
+    - '#1838fb'
+    - '#ffffff'
+    - '#020202'
+    - '#646464'
+    - '#b2b2b2'
+  lightness: 0.9133802622091025
+typography_spectrum: 0.09696459
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: GeekHarder
